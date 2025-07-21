@@ -1,9 +1,9 @@
 Name: CHANDR PAL SINGH RAWAT
 Company: CODTECH IT SOLUTIONS
-ID: CT08DS4565
-Domain: Web Development
-Duration: JULY 10th, 2024 to AUGUST 1Oth, 2024
-Mentor: MUZAMMIL AHMED
+ID: CT04DG2986
+Domain:Full Stack Web Development
+Duration: 4 WEEKS 
+Mentor: NEELA SANTOSH
 
 Overview of the Project
 
